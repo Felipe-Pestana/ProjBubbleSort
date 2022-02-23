@@ -7,8 +7,8 @@ namespace ProjBubbleSort
         static void Main(string[] args)
         {
             string[] lista = new string[5];
-
-            for(int i = 0; i < 5; i++)pos\ProjBubbleSort
+            // aqui eu estou lendo os valores do vetor
+            for(int i = 0; i < 5; i++)
             {
                 lista[i] = Console.ReadLine();
             }
